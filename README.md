@@ -8,21 +8,21 @@ In today’s rapidly evolving cloud environments, organizations are facing incre
 
 ## **Table of Contents**
 
-1. Introduction  
-2. Objectives  
-3. Architecture Diagram  
-4. Key Features  
-5. Prerequisites  
-6. FinOps Framework Overview  
-7. Implementation Plan  
-   - Step 1: Environment Setup  
-   - Step 2: Infrastructure Deployment  
-   - Step 3: Cost Visibility and Allocation  
-   - Step 4: Optimization and Automation  
-8. Results  
-9. Advanced Security and FinOps Best Practices  
-10. Future Enhancements  
-11. Resources
+1. [Introduction](#introduction)  
+2. [Objectives](#objectives)  
+3. [Architecture Diagram](#architecture-diagram)  
+4. [Key Features](#key-features)  
+5. [Prerequisites](#prerequisites)  
+6. [FinOps Framework Overview](#finops-framework-overview)  
+7. [Implementation Plan](#implementation-plan)  
+   - [Step 1: Environment Setup](#step-1-environment-setup)  
+   - [Step 2: Infrastructure Deployment](#step-2-infrastructure-deployment)  
+   - [Step 3: Cost Visibility and Allocation](#step-3-cost-visibility-and-allocation)  
+   - [Step 4: Optimization and Automation](#step-4-optimization-and-automation)  
+8. [Results](#results)  
+9. [Advanced Security and FinOps Best Practices](#advanced-security-and-finops-best-practices)  
+10. [Future Enhancements](#future-enhancements)  
+11. [Resources](#resources)
 
 ---
 
