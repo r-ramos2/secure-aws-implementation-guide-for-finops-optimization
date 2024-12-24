@@ -1,0 +1,12 @@
+{
+  "AlarmName": "CostThresholdExceeded",
+  "MetricName": "EstimatedCharges",
+  "Namespace": "AWS/Billing",
+  "ComparisonOperator": "GreaterThanThreshold",
+  "Threshold": 500,
+  "Period": 86400,
+  "EvaluationPeriods": 1,
+  "AlarmActions": [
+    "arn:aws:sns:us-east-1:123456789012:CostAlerts"
+  ]
+}
