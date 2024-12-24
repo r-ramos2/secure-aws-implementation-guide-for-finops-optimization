@@ -1,11 +1,5 @@
 # **Secure AWS Implementation Guide for FinOps Optimization**
 
-## **Introduction**
-
-In today’s rapidly evolving cloud environments, organizations are facing increasing pressure to manage their cloud costs effectively while ensuring security and compliance. Implementing a secure and optimized AWS infrastructure is key to balancing financial accountability with operational efficiency. This guide outlines how to implement a secure, cost-optimized AWS environment by applying **FinOps principles** and **cloud security best practices**. Using **Terraform for Infrastructure as Code (IaC)**, integrating AWS native tools for monitoring and optimization, and focusing on automation, this guide will help you achieve continuous cost optimization and robust cloud security.
-
----
-
 ## **Table of Contents**
 
 1. [Introduction](#introduction)  
@@ -23,6 +17,12 @@ In today’s rapidly evolving cloud environments, organizations are facing incre
 9. [Advanced Security and FinOps Best Practices](#advanced-security-and-finops-best-practices)  
 10. [Future Enhancements](#future-enhancements)  
 11. [Resources](#resources)
+
+---
+
+## **Introduction**
+
+In today’s rapidly evolving cloud environments, organizations are facing increasing pressure to manage their cloud costs effectively while ensuring security and compliance. Implementing a secure and optimized AWS infrastructure is key to balancing financial accountability with operational efficiency. This guide outlines how to implement a secure, cost-optimized AWS environment by applying **FinOps principles** and **cloud security best practices**. Using **Terraform for Infrastructure as Code (IaC)**, integrating AWS native tools for monitoring and optimization, and focusing on automation, this guide will help you achieve continuous cost optimization and robust cloud security.
 
 ---
 
